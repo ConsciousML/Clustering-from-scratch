@@ -1,4 +1,4 @@
-# Clustering-Methods
+# Clustering-Methods-From-Scratch
 
 ## Objective
 The goal of this project is to implement some expectation maximization algorithm such as KMeans and Gaussian Mixtures.
